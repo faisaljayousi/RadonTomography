@@ -1,0 +1,30 @@
+# Cache directories
+__pycache__/
+.pytest_cache/
+
+# Build artefacts
+build/
+dist/
+*.egg-info
+
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Venv directories & files
+venv/
+.env/
+*.env
+*.venv
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Todo
+TODO.txt
